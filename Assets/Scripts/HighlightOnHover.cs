@@ -12,6 +12,8 @@ public class HighlightOnHover : MonoBehaviour
     private Renderer objectRenderer;
     private XRBaseInteractable interactable;
 
+    private bool isGrabbed = false;
+
     void Awake()
     {
         objectRenderer = GetComponent<Renderer>();
@@ -37,17 +39,21 @@ public class HighlightOnHover : MonoBehaviour
     {
         interactable.hoverEntered.AddListener(OnHoverEnter);
         interactable.hoverExited.AddListener(OnHoverExit);
+        interactable.selectEntered.AddListener(OnGrab);
+        interactable.selectExited.AddListener(OnRelease);
     }
 
     void OnDisable()
     {
         interactable.hoverEntered.RemoveListener(OnHoverEnter);
         interactable.hoverExited.RemoveListener(OnHoverExit);
+        interactable.selectEntered.RemoveListener(OnGrab);
+        interactable.selectExited.RemoveListener(OnRelease);
     }
 
     void OnHoverEnter(HoverEnterEventArgs args)
     {
-        if (objectRenderer != null && highlightMaterialInstance != null)
+        if (!isGrabbed && objectRenderer != null && highlightMaterialInstance != null)
             objectRenderer.material = highlightMaterialInstance;
     }
 
@@ -55,5 +61,17 @@ public class HighlightOnHover : MonoBehaviour
     {
         if (objectRenderer != null && originalMaterial != null)
             objectRenderer.material = originalMaterial;
+    }
+
+        void OnGrab(SelectEnterEventArgs args)
+    {
+        isGrabbed = true;
+        if (objectRenderer != null && originalMaterial != null)
+            objectRenderer.material = originalMaterial;
+    }
+
+    void OnRelease(SelectExitEventArgs args)
+    {
+        isGrabbed = false;
     }
 }

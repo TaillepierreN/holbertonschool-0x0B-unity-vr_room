@@ -1,0 +1,2 @@
+G:\git\holbertonschool-0x0B-unity-vr_room\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+G:\git\holbertonschool-0x0B-unity-vr_room\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

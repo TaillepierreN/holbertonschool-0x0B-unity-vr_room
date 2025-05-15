@@ -1,0 +1,10 @@
+# ninja log v5
+20	1496	7689966089955101	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	b1849ed260bb208e
+25	1502	7689966089995130	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	6d148c83bc34a19a
+1	1527	7689966090325076	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	e35a7321f902dd5
+35	1578	7689966090855067	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	3bc72aa25326313
+30	1664	7689966091680581	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	e17dc691b9697789
+7	1777	7689966092830544	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	62b7899619d95828
+16	2077	7689966095820580	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	8ae6424a8fea3977
+11	2302	7689966098070518	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	7b7906a0a7f0862f
+2303	2488	7689966099770545	G:/git/holbertonschool-0x0B-unity-vr_room/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6216e55t/obj/arm64-v8a/libgame.so	cb7b40a9a9fac996

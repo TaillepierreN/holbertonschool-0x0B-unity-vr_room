@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "G:\\git\\holbertonschool-0x0B-unity-vr_room\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "G:\\git\\holbertonschool-0x0B-unity-vr_room\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\src\\main\\cpp\\GameActivity\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Unity\\6000.0.33f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\SDK\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "G:\\git\\holbertonschool-0x0B-unity-vr_room\\.utmp\\RelWithDebInfo\\6216e55t\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Unity\\6000.0.33f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\SDK\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "G:\\git\\holbertonschool-0x0B-unity-vr_room\\.utmp\\RelWithDebInfo\\6216e55t\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "game::@d02bb112ea9f9c2ed29f": {
+      "artifactName": "game",
+      "abi": "arm64-v8a",
+      "output": "G:\\git\\holbertonschool-0x0B-unity-vr_room\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\build\\intermediates\\cxx\\RelWithDebInfo\\6216e55t\\obj\\arm64-v8a\\libgame.so",
+      "runtimeFiles": []
+    }
+  }
+}

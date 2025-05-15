@@ -1,0 +1,17 @@
+G:\git\holbertonschool-0x0B-unity-vr_room\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\GAToUnityCallbacks.h
+G:\git\holbertonschool-0x0B-unity-vr_room\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroEnd.h
+G:\git\holbertonschool-0x0B-unity-vr_room\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroHeaderBegin.h
+G:\git\holbertonschool-0x0B-unity-vr_room\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroSourceBegin.h
+G:\git\holbertonschool-0x0B-unity-vr_room\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAApplication.h
+G:\git\holbertonschool-0x0B-unity-vr_room\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAConfiguration.h
+G:\git\holbertonschool-0x0B-unity-vr_room\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGADebug.h
+G:\git\holbertonschool-0x0B-unity-vr_room\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAEvents.h
+G:\git\holbertonschool-0x0B-unity-vr_room\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAInput.h
+G:\git\holbertonschool-0x0B-unity-vr_room\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGASoftKeyboard.h
+G:\git\holbertonschool-0x0B-unity-vr_room\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGASoftKeyboardCallbacks.h
+G:\git\holbertonschool-0x0B-unity-vr_room\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGATypes.h
+G:\git\holbertonschool-0x0B-unity-vr_room\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAVersion.h
+G:\git\holbertonschool-0x0B-unity-vr_room\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGACallbacks.h
+G:\git\holbertonschool-0x0B-unity-vr_room\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAConfigurationCallbacks.h
+G:\git\holbertonschool-0x0B-unity-vr_room\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAKeyEventCallbacks.h
+G:\git\holbertonschool-0x0B-unity-vr_room\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAMotionEventCallbacks.h

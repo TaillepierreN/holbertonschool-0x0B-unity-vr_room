@@ -1,0 +1,5 @@
+G:/git/holbertonschool-0x0B-unity-vr_room/.utmp/RelWithDebInfo/6216e55t/arm64-v8a/CMakeFiles/edit_cache.dir
+G:/git/holbertonschool-0x0B-unity-vr_room/.utmp/RelWithDebInfo/6216e55t/arm64-v8a/CMakeFiles/rebuild_cache.dir
+G:/git/holbertonschool-0x0B-unity-vr_room/.utmp/RelWithDebInfo/6216e55t/arm64-v8a/GameActivity/CMakeFiles/game.dir
+G:/git/holbertonschool-0x0B-unity-vr_room/.utmp/RelWithDebInfo/6216e55t/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+G:/git/holbertonschool-0x0B-unity-vr_room/.utmp/RelWithDebInfo/6216e55t/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

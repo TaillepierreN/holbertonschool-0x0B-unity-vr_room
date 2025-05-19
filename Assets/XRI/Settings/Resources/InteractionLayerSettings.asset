@@ -15,10 +15,10 @@ MonoBehaviour:
   m_LayerNames:
   - Default
   - Grabbable
-  - 
-  - 
-  - 
-  - 
+  - KnightLight
+  - BishopLight
+  - RookDark
+  - PawnDark
   - 
   - 
   - 

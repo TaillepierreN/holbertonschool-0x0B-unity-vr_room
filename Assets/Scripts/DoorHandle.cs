@@ -5,16 +5,18 @@ public class DoorHandle : MonoBehaviour
 {
     public Animator DoorAnimator;
     public GameObject DoorTextPanel;
-    private bool Unlocked = false;
-    private string boolParameterName = "character_nearby";
+    private bool _unlocked = false;
+    private string _boolParameterName = "character_nearby";
     [SerializeField] private AudioSource _audioSource;
     [SerializeField] private AudioClip[] _audioClips;
+
+    
     public void ToggleDoor()
     {
         if (DoorAnimator == null) return;
-        if (Unlocked)
+        if (_unlocked)
         {
-            bool currentValue = DoorAnimator.GetBool(boolParameterName);
+            bool currentValue = DoorAnimator.GetBool(_boolParameterName);
             if (currentValue)
             {
                 _audioSource.PlayOneShot(_audioClips[1]);
@@ -23,7 +25,7 @@ public class DoorHandle : MonoBehaviour
             {
                 _audioSource.PlayOneShot(_audioClips[2]);
             }
-            DoorAnimator.SetBool(boolParameterName, !currentValue);
+            DoorAnimator.SetBool(_boolParameterName, !currentValue);
         }
         else
         {
@@ -34,7 +36,7 @@ public class DoorHandle : MonoBehaviour
 
     public void UnlockDoor()
     {
-        Unlocked = true;
+        _unlocked = true;
     }
 
     private IEnumerator ShowDoorTextPanel()
